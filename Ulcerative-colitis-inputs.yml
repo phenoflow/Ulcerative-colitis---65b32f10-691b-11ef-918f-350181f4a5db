@@ -1,0 +1,75 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/read-potential-cases.py
+inputModule2:
+  class: File
+  path: python/large-ulcerative-colitis---secondary.py
+inputModule3:
+  class: File
+  path: python/ulcerative-colitis-proctosigmoiditis---secondary.py
+inputModule4:
+  class: File
+  path: python/ulcerative-colitis-unspecified---secondary.py
+inputModule5:
+  class: File
+  path: python/ulcerative-colitis-diverticulosis---secondary.py
+inputModule6:
+  class: File
+  path: python/ulcerative-colitis-fistula---secondary.py
+inputModule7:
+  class: File
+  path: python/ulcerative-colitis-leftsided---secondary.py
+inputModule8:
+  class: File
+  path: python/other-ulcerative-colitis---secondary.py
+inputModule9:
+  class: File
+  path: python/ulcerative-colitis-diverticulitis---secondary.py
+inputModule10:
+  class: File
+  path: python/rectal-ulcerative-colitis---secondary.py
+inputModule11:
+  class: File
+  path: python/ulcerative-colitis-proctitis---secondary.py
+inputModule12:
+  class: File
+  path: python/colitis---secondary.py
+inputModule13:
+  class: File
+  path: python/universal-ulcerative-colitis---secondary.py
+inputModule14:
+  class: File
+  path: python/ulcerative-colitis-ileocolitis---secondary.py
+inputModule15:
+  class: File
+  path: python/acute-ulcerative-colitis---secondary.py
+inputModule16:
+  class: File
+  path: python/severe-ulcerative-colitis---secondary.py
+inputModule17:
+  class: File
+  path: python/chronic-ulcerative-colitis---secondary.py
+inputModule18:
+  class: File
+  path: python/ulcerative-colitis-pancolitis---secondary.py
+inputModule19:
+  class: File
+  path: python/ulcerative-colitis-exacerbation---secondary.py
+inputModule20:
+  class: File
+  path: python/ulcerative-colitis-iritis---secondary.py
+inputModule21:
+  class: File
+  path: python/moderate-ulcerative-colitis---secondary.py
+inputModule22:
+  class: File
+  path: python/ulcerative-colitis-remission---secondary.py
+inputModule23:
+  class: File
+  path: python/cooccurrent-ulcerative-colitis---secondary.py
+inputModule24:
+  class: File
+  path: python/output-cases.py
